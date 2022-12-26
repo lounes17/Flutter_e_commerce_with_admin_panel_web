@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "343435414078",
+    "project_id": "application-mobile-anis",
+    "storage_bucket": "application-mobile-anis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343435414078:android:8b145da81680ce6a705f6f",
+        "android_client_info": {
+          "package_name": "com.example.application_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343435414078-vi7lsc76u5l9bcm9ehjrjd0deqldmthm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIKamwXX6miQTsNOpG54byOB09xJBVA0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343435414078-vi7lsc76u5l9bcm9ehjrjd0deqldmthm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
